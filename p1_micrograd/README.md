@@ -1,3 +1,15 @@
+To start:
+
+```bash
+jupyter lab
+```
+
+# Setup
+
+- Will need to install [graphviz](https://pypi.org/project/graphviz/)
+
+# Kernels
+
 To register a kernel:
 
 ```bash
