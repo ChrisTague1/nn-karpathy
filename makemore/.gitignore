@@ -1,0 +1,38 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python virtual environment
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local data files
+data/
+*.csv
+*.pkl
+*.h5
+
+# Jupyter lab
+.jupyter/
+.local/
+
+# Logs
+logs/
+*.log
+
+# Model files (optional, depending on your needs)
+*.model
+*.pkl
+*.h5
+*.weights
