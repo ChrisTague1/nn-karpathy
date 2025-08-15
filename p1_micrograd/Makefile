@@ -1,2 +1,2 @@
 start:
-	@jupyter lab
+	@uv run jupyter lab

@@ -1,6 +1,0 @@
-jupyterlab
-ipykernel
-numpy
-matplotlib
-graphviz
-torch
